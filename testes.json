@@ -1,0 +1,57 @@
+{
+	"tipo" : "NEL",
+	"IDconcessionaria": "00770",
+	"datainicial" : "06/11/19",
+	"datafinal" : "06/11/19",
+	"sequencial" : "28242"
+}
+
+{
+	"tipo" : "NEL",
+	"IDconcessionaria": "00770",
+	"datainicial" : "06/11/19",
+	"datafinal" : "11/11/19",
+	"sequencial" : "28242"
+}
+
+
+{
+	"tipo" : "NEL",
+	"IDconcessionaria": "00770",
+	"datainicial" : "02/12/19",
+	"datafinal" : "04/12/19",
+	"sequencial" : "teste"
+}
+
+{
+	"tipo" : "NEL",
+	"IDconcessionaria": "00771",
+	"datainicial" : "01/01/19",
+	"datafinal" : "01/01/19",
+	"sequencial" : "44444"
+}
+
+{
+	"tipo" : "NEL",
+	"IDconcessionaria": "00771",
+	"datainicial" : "01/01/19",
+	"datafinal" : "31/12/19",
+	"sequencial" : ""
+}
+
+{
+	"tipo" : "TAG",
+	"IDconcessionaria": "00772",
+	"datainicial" : "01/01/19",
+	"datafinal" : "31/12/19",
+	"sequencial" : ""
+}
+
+{
+	"tipo" : "TAG",
+	"IDconcessionaria": "00100",
+	"datainicial" : "01/01/19",
+	"datafinal" : "31/12/19",
+	"sequencial" : "72899"
+}
+
